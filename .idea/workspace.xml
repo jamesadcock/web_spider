@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f0da8ba-d11b-4d9b-8c83-1cb5710e88cd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/events/addevent/addevent.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/events/addevent/addevent.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/events/addevent/addevent.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/events/addevent/addevent.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/events/addevent/addevent.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/events/addevent/addevent.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/user/homepage/addgroup/addgroup.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/user/homepage/addgroup/addgroup.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/user/homepage/addgroup/addgroup.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/user/homepage/addgroup/addgroup.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/user/homepage/addgroup/addgroup.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/user/homepage/addgroup/addgroup.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/notices/addnotice/addnotice.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/notices/addnotice/addnotice.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/notices/addnotice/addnotice.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/notices/addnotice/addnotice.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/notices/addnotice/addnotice.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/notices/addnotice/addnotice.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/events/events.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/events/events.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/events/events.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/events/events.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/events/events.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/events/events.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/admin/moderate/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/events/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/admin/moderate/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/events/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/moderate/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/events/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/moderate/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/events/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/admin/moderate/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/events/eventsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/admin/moderate/eventsRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/events/eventsRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/admin/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/user/homepage/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/admin/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/user/homepage/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/user/homepage/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/user/homepage/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/admin/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/user/homepage/homepage.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/homepage.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/admin/homepage.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/user/homepage/homepage.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/user/homepage/homepageRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/user/homepage/homepageRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/user/homepage/homepageRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/user/homepage/homepageRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/user/homepage/homepageRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/user/homepage/homepageRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/members/invite/inviteUser.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/members/invite/inviteUser.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/members/invite/inviteUser.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/members/invite/inviteUser.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/members/invite/inviteUser.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/members/invite/inviteUser.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/members/invite/inviteUserRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/members/invite/inviteUserRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/members/invite/inviteUserRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/members/invite/inviteUserRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/members/invite/inviteUserRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/members/invite/inviteUserRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/user/homepage/invites/invites.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/user/homepage/invites/invites.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/user/homepage/invites/invites.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/user/homepage/invites/invites.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/user/homepage/invites/invites.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/user/homepage/invites/invites.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/user/homepage/invites/invitesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/user/homepage/invites/invitesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/user/homepage/invites/invitesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/user/homepage/invites/invitesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/user/homepage/invites/invitesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/user/homepage/invites/invitesRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/auth/login.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/auth/login.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/auth/login.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/auth/login.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/auth/login.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/auth/login.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/members/memberlist.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/members/memberlist.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/members/memberlist.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/members/memberlist.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/members/memberlist.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/members/memberlist.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/members/memberlistRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/members/memberlistRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/members/memberlistRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/members/memberlistRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/members/memberlistRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/members/memberlistRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/admin/members/members.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/admin/members/members.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/members/members.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/members/members.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/admin/members/members.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/admin/members/members.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/admin/members/membersRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/admin/members/membersRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/members/membersRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/members/membersRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/admin/members/membersRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/admin/members/membersRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/admin/moderate/moderate.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/admin/moderate/moderate.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/moderate/moderate.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/moderate/moderate.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/admin/moderate/moderate.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/admin/moderate/moderate.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/notices/notices.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/notices/notices.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/notices/notices.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/notices/notices.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/notices/notices.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/notices/notices.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/admin/moderate/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/notices/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/admin/moderate/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/notices/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/moderate/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/notices/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/moderate/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/notices/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/admin/moderate/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/notices/noticesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/admin/moderate/noticesRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/notices/noticesRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/user/options.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/user/options.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/user/options.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/user/options.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/user/options.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/user/options.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/auth/register.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/auth/register.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/auth/register.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/auth/register.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/auth/register.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/auth/register.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/auth/resetpassword.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/auth/resetpassword.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/auth/resetpassword.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/auth/resetpassword.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/auth/resetpassword.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/auth/resetpassword.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/admin/roles/roles.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/admin/roles/roles.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/roles/roles.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/roles/roles.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/admin/roles/roles.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/admin/roles/roles.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/admin/roles/rolesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/admin/roles/rolesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/roles/rolesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/roles/rolesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/admin/roles/rolesRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/admin/roles/rolesRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/user/homepage/searchgroups/searchgroups.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/user/homepage/searchgroups/searchgroups.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/user/homepage/searchgroups/searchgroups.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/user/homepage/searchgroups/searchgroups.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/user/homepage/searchgroups/searchgroups.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/user/homepage/searchgroups/searchgroups.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/user/homepage/searchgroups/searchgroupsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/user/homepage/searchgroups/searchgroupsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/user/homepage/searchgroups/searchgroupsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/user/homepage/searchgroups/searchgroupsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/user/homepage/searchgroups/searchgroupsRow.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/user/homepage/searchgroups/searchgroupsRow.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/admin/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/controllers/group/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/admin/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/android/alloy/styles/group/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/admin/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/group/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/admin/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/group/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/admin/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/controllers/group/settings/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/admin/settings/settings.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/styles/group/settings/settings.tss" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/events/addevent/addevent.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/user/homepage/addgroup/addgroup.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/notices/addnotice/addnotice.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/events/events.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/admin/moderate/eventsRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/events/eventsRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/homepage.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/admin/homepage.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/user/homepage/homepage.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/user/homepage/homepageRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/members/invite/inviteUser.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/members/invite/inviteUserRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/user/homepage/invites/invites.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/user/homepage/invites/invitesRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/auth/login.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/members/memberlist.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/members/memberlistRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/admin/members/members.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/admin/members/membersRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/admin/moderate/moderate.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/notices/notices.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/admin/moderate/noticesRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/notices/noticesRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/user/options.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/auth/register.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/auth/resetpassword.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/admin/roles/roles.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/admin/roles/rolesRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/user/homepage/searchgroups/searchgroups.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/user/homepage/searchgroups/searchgroupsRow.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/admin/settings/settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/app/views/group/settings/settings.xml" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\com.aptana.core.io\connections.483" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\com.aptana.syncing.core\defaultConnection.483" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\com.aptana.syncing.core\sites.483" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\com.aptana.webserver.core\webservers.457" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\21\e04dd2ac3aba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\2a\10c5f0eeaaba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\2c\40d7e50fa8ba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\36\00b6b360a4ba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\3f\600c5731a7ba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\43\6028ca293eba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\58\e07a7724afba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\59\7088addeadba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\5a\d035af19a5ba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\5b\2024ca153cba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\61\b0f16c259fba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\65\e098a519a5ba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\7c\00e58434adba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\8f\e0de8af363ba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\98\70506ce539ba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\aa\907f391facba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\b2\80cda8deadba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\b5\90635c31a7ba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\c7\70430b4da9ba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\c9\c0c34e6ea6ba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\cf\20518034adba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\cf\e0b8b667b2ba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\d1\80ab401facba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\d4\60767c2966ba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\de\60dec5153cba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\df\106286aa3aba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\e0\908fbc153cba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\e5\d0cf11e99cba00131234df183fb1ff09" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.history\ee\502a29fa62ba00131f72ba772783b902" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Kitchen Sink\.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Kitchen Sink\.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\6e\7f\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\19\f7\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\19\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\4f\19\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\4f\bd\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\4f\fd\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\9b\b9\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\9b\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\e7\67\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\e7\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\7f\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\a8\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\cb\12\82\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\cb\12\8a\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\21\a9\cb\12\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.indexes\history.index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\TeamSync\.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.root\.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.root\39.tree" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.safetable\com.aptana.core.io.483" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.safetable\com.aptana.syncing.core.483" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.safetable\com.aptana.webserver.core.457" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\James\Documents\Titanium_Studio_Workspace\.metadata\.plugins\org.eclipse.core.resources\.snap" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Kitchen Sink/.markers" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Kitchen Sink/.markers" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/com.aptana.index.core/2575419871.index" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/com.aptana.index.core/2575419871.index" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/com.aptana.index.core/3621154698.index" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/com.aptana.index.core/3621154698.index" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Firefox - Internal Server.launch" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Firefox - Internal Server.launch" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Internet Explorer - Internal Server.launch" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Internet Explorer - Internal Server.launch" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Titanium Android Application Installer - TeamSync.launch" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Titanium Android Application Installer - TeamSync.launch" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Titanium Mobile Web Preview on Emulator - TeamSync.launch" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Titanium Mobile Web Preview on Emulator - TeamSync.launch" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Titanium Mobile Web Previewer - Kitchen Sink.launch" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Titanium Mobile Web Previewer - Kitchen Sink.launch" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Titanium Mobile Web Previewer - TeamSync.launch" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Titanium Mobile Web Previewer - TeamSync.launch" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/app/alloy.js" afterPath="$USER_HOME$/app/alloy.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Resources/android/app.js" afterPath="$USER_HOME$/Resources/android/app.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Resources/mobileweb/app.js" afterPath="$USER_HOME$/Resources/mobileweb/app.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/app/styles/app.tss" afterPath="$USER_HOME$/app/styles/app.tss" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.appcelerator.titanium.ui.prefs" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.appcelerator.titanium.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.aptana.editor.findbar.prefs" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.aptana.editor.findbar.prefs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.aptana.theme.prefs" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/com.aptana.theme.prefs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Resources/android/alloy/constants.js" afterPath="$USER_HOME$/Resources/android/alloy/constants.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Resources/android/alloy/controllers/index.js" afterPath="$USER_HOME$/Resources/android/alloy/controllers/index.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Resources/android/alloy/styles/index.js" afterPath="$USER_HOME$/Resources/android/alloy/styles/index.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Resources/mobileweb/alloy/controllers/index.js" afterPath="$USER_HOME$/Resources/mobileweb/alloy/controllers/index.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Resources/mobileweb/alloy/styles/index.js" afterPath="$USER_HOME$/Resources/mobileweb/alloy/styles/index.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/app/controllers/index.js" afterPath="$USER_HOME$/app/controllers/index.js" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.search.prefs" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.search.prefs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2014/4/14/refactorings.history" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2014/4/14/refactorings.history" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2014/4/14/refactorings.index" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2014/4/14/refactorings.index" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.log" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/app/views/index.xml" afterPath="$USER_HOME$/app/views/index.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="$USER_HOME$/Documents/Titanium_Studio_Workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+    </list>
+    <ignored path="Spider.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Spider" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Spider.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.31360948" vertical-offset="353" max-vertical-offset="1292">
+              <caret line="27" column="1" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+              <folding>
+                <element signature="e#65#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Spider.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="width" value="1350" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Spider">
+    <configuration default="false" name="Spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Spider" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Spider" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Spider" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Spider" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Spider" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Spider" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Spider" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.Spider" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.Spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f0da8ba-d11b-4d9b-8c83-1cb5710e88cd" name="Default" comment="" />
+      <created>1415475314802</created>
+      <updated>1415475314802</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="0" width="1350" height="728" extended-state="1" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25562218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40872374" sideWeight="0.5003751" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40872374" sideWeight="0.4996249" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31360948" vertical-offset="353" max-vertical-offset="1292">
+          <caret line="27" column="1" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="e#65#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
